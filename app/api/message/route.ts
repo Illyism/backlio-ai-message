@@ -57,6 +57,7 @@ Write a message to ${msg.prospect_domain} (${msg.email_address}) asking for a ba
 About us:
 - Name: Ilias Ism
 - Domain: WorkbookPDF.com
+- Website: https://workbookpdf.com/
 - About: Language learning workbook exercises personalized to every student with AI
 
 About the prospect:
