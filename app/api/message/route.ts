@@ -76,6 +76,7 @@ The message should be:
 - As concise as possible (just a few sentences)
 - Extremely short, save time for both of us
 - Write a PS: Mention our affiliate program, you can earn 20% of the revenue from every sale you refer to us: https://affiliates.reflio.com/invite/workbookpdf
+- PPS: Offer a guest post in exchange for a backlink: https://workbookpdf.com/blog
 
 Return format:
 Subject: The subject of the email
