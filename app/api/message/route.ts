@@ -18,15 +18,21 @@ interface Message {
   prospect_links_to_us: boolean;
   prospect_title: string;
   prospect_title_above_link: string;
-  prospect_description: string;
+  prospect_description: string | null;
   prospect_flags: string[];
-  prospect_published: string;
-  prospect_updated: string;
+  prospect_published: string | null;
+  prospect_updated: string | null;
   email_address: string;
-  email_status: string;
+  email_status: string | null;
   email_url: string;
   email_title: string;
   email_count: number;
+  my_claim: string;
+  my_domain: string;
+  my_first_name: string;
+  my_full_name: string;
+  my_last_name: string;
+  my_profile_photo_url: string | null;
 }
  
 export async function GET(req: Request) {
